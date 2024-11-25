@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5dba060.css",
+    "main.js": "/static/js/main.4d4f42a2.js",
+    "static/js/453.12d03503.chunk.js": "/static/js/453.12d03503.chunk.js",
+    "static/media/front2.jpeg": "/static/media/front2.01e52a28f1425f884043.jpeg",
+    "static/media/strength1.jpeg": "/static/media/strength1.a9aaba50dfb482ddcfa6.jpeg",
+    "static/media/bachhi.JPG": "/static/media/bachhi.7a4a0609044f796a6972.JPG",
+    "static/media/tanmay.JPG": "/static/media/tanmay.b69d7e1077aa25f52282.JPG",
+    "static/media/satija.JPG": "/static/media/satija.ba46f4f32557b8a98974.JPG",
+    "static/media/owner.jpg": "/static/media/owner.12bb2c1d332e939b7084.jpg",
+    "static/media/front.jpeg": "/static/media/front.f062d1845e1689b08600.jpeg",
+    "static/media/logo-removebg-preview.png": "/static/media/logo-removebg-preview.502ecb968f5a2d0524e8.png",
+    "static/media/zumba3.jpeg": "/static/media/zumba3.9baca624cf870408d2e7.jpeg",
+    "static/media/cardio1.jpeg": "/static/media/cardio1.a3119426e80211edc364.jpeg",
+    "static/media/zumba1.jpeg": "/static/media/zumba1.d2aaa51f5d491cc01c18.jpeg",
+    "static/media/strength2.jpeg": "/static/media/strength2.7d88c68889cb22b72e89.jpeg",
+    "static/media/dumbell1.jpeg": "/static/media/dumbell1.10b504adba4c96bffbc9.jpeg",
+    "static/media/stretching1.jpeg": "/static/media/stretching1.8dd28ef14f1d426a0777.jpeg",
+    "static/media/cardio2.jpeg": "/static/media/cardio2.d778e0692917fe760d2b.jpeg",
+    "static/media/cardio3.jpeg": "/static/media/cardio3.a4d7f757e620f3526a89.jpeg",
+    "static/media/cardio4.jpeg": "/static/media/cardio4.43213fe1845993d6e281.jpeg",
+    "static/media/zumba2.jpeg": "/static/media/zumba2.ff64d05067f678893839.jpeg",
+    "static/media/front1.jpeg": "/static/media/front1.c216a8fb3eeef895bbf7.jpeg",
+    "static/media/zumba4.jpeg": "/static/media/zumba4.42f88a835d6dbaebe493.jpeg",
+    "static/media/contact.webp": "/static/media/contact.5fbea6980323b240994d.webp",
+    "static/media/stretching3.jpeg": "/static/media/stretching3.77e8d5b95e94742b55a0.jpeg",
+    "static/media/stretching2.jpeg": "/static/media/stretching2.ebdbadb7f91be5e155a1.jpeg",
+    "static/media/dumbell2.jpeg": "/static/media/dumbell2.9d96fbeac8ac3d7dbd5d.jpeg",
+    "static/media/ryan.jpeg": "/static/media/ryan.81f2c60d23229e291c3a.jpeg",
+    "static/media/dumbell3.jpeg": "/static/media/dumbell3.ac4a7cb735ed6ac24dd3.jpeg",
+    "index.html": "/index.html",
+    "main.d5dba060.css.map": "/static/css/main.d5dba060.css.map",
+    "main.4d4f42a2.js.map": "/static/js/main.4d4f42a2.js.map",
+    "453.12d03503.chunk.js.map": "/static/js/453.12d03503.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5dba060.css",
+    "static/js/main.4d4f42a2.js"
+  ]
+}
